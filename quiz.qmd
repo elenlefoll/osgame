@@ -1,0 +1,509 @@
+---
+title: "Open science publishing game"
+format: html
+bibliography: references.bib
+csl: apa-no-initials.csl
+---
+
+::: speech-bubble
+Hello there,
+
+it seems you're interested in learning more about academic publishing! This game leads you through the different phases of publishing an academic paper. During each phase you're going to have to answer some questions. Every decision you make has an impact on your score, which consists of three attributes associated with you as a researcher:
+
+-   *Funding* (𝔐)
+-   *Ethics* (𝔈)
+-   *Reputation* (ℜ)
+
+By the end of the game you'll learn about the different forms of publishing. For this, it is very important that you **keep track of your stats**. You can either write it down during the game or leave the answer of your choice open and sum up in the end in the end.
+:::
+
+</br>
+
+![](Dr.%20Owl/explaining.png){fig-align="center" width="200"}
+
+</br>
+
+::::: speech-bubble
+## Part I: Funding, grants and preparation
+
+:::: progress-outside
+::: number-inside
+# 0%
+:::
+::::
+:::::
+
+</br>
+
+![](Dr.%20Owl/Money.png){fig-align="center" width="450"}
+
+::::::: question-box
+## Question I:
+
+:::::: inside-box
+#### Choose your companion -- The Assistant
+
+You’re staring at two CVs and one business card on your desk at the University of Cologne. Your choice will define your lab's culture.
+
+::: {.callout-important title="The Industry Plant" collapse="true" appearance="simple" icon="false"}
+A brilliant coder funded by a data-mining giant. They have all the latest tools but require "first-look" rights to your findings.
+
+### **Impact**:
+
++5 𝔐, -2 𝔈
+:::
+
+::: {.callout-tip title="The Activist Scholar" collapse="true" appearance="simple" icon="false"}
+They specialize in endangered dialects and insist on community-led data ownership. It’s slow work, but it’s the ethical way.
+
+### **Impact**:
+
+-2 𝔐, +4 𝔈
+:::
+
+::: {.callout-warning title="The Post-Doc" collapse="true" appearance="simple" icon="false"}
+They have a track record of publishing in high-impact, paywalled journals. They want results fast and aren't interested in open-access paperwork.
+
+### **Impact**:
+
+-2 𝔐, +3 ℜ
+:::
+::::::
+:::::::
+
+</br>
+
+::::::: question-box
+## Question II:
+
+:::::: inside-box
+#### Choose your weapon -- The Grant
+
+Your ongoing research needs a budget. You have found a portal where you can apply for some grants. The portal shows three options:
+
+::: {.callout-important title="The Public Grant" collapse="true" appearance="simple" icon="false"}
+It requires a 50-page Open Science Plan. It’s prestigious but the funding is barely enough to cover coffee.
+
+### **Impact**:
+
+-2 𝔐, +2 𝔈, +1 ℜ
+:::
+
+::: {.callout-tip title="The Fellowship of Tech" collapse="true" appearance="simple" icon="false"}
+A private corporation offers a lot of money, but you must use their proprietary software for analysis.
+
+### **Impact**:
+
++5 𝔐, -3 𝔈
+:::
+
+::: {.callout-warning title="The University Grant" collapse="true" appearance="simple" icon="false"}
+Mid-level funding with no open science requirements. It’s easy, but it contributes nothing to the movement.
+
+### **Impact**:
+
+-1 𝔐, +1 ℜ
+:::
+::::::
+:::::::
+
+</br>
+
+::::::: question-box
+## Question III:
+
+:::::: inside-box
+#### Choose your path -- Pre-registration
+
+You’re half-way through your study. Your post-doc says that if you pre-register your study, <!--publicly--> a rival lab in Munich might scoop your project.
+
+::: {.callout-important title="The Transparent" collapse="true" appearance="simple" icon="false"}
+Preregister publicly on [OSF](https://osf.io/) or [AsPredicted](https://aspredicted.org/) and make your study public. You’re protected by a timestamp, but everyone will know what your study is about.
+
+### **Impact**:
+
++3 𝔈, +1 ℜ
+:::
+
+::: {.callout-tip title="The Hesitant One" collapse="true" appearance="simple" icon="false"}
+Preregister your study on [OSF](https://osf.io/) or [AsPredicted](https://aspredicted.org/) but keep it private for two years. It’s a paper trail only you can see for now.
+
+### **Impact**:
+
++2 𝔈, -1 𝔐
+:::
+
+::: {.callout-warning title="The Rogue" collapse="true" appearance="simple" icon="false"}
+Don’t preregister. You prefer the flexibility to adjust your hypotheses, which is great if the p-values don't look good later.
+
+### **Impact**:
+
+-3 𝔈, +2 ℜ
+:::
+::::::
+:::::::
+
+</br>
+
+:::::: speech-bubble
+## Part II: Research phase
+
+::::: progress-outside
+:::: progress-inside-30
+::: number-inside
+# 30%
+:::
+::::
+:::::
+::::::
+
+</br>
+
+![](Dr.%20Owl/stressed.png){fig-align="center" width="300"}
+
+::::::: question-box
+## Question IV:
+
+:::::: {.callout-note title="The Paywall-Payoff" appearance="simple" icon="false"}
+While you start your in-depth research for your study, you realize most key papers are behind paywalls. You are not able to afford this with your budget.
+
+::: {.callout-important title="The Necessary Expense" collapse="true" appearance="simple" icon="false"}
+Pay the fee from grant money. The paper is essential for your research.
+
+### **Impact**:
+
+-2 𝔐, +1 ℜ
+:::
+
+::: {.callout-tip title="The Rebel" collapse="true" appearance="simple" icon="false"}
+Only cite freely accesible research, such as preprints and papers published in Diamond Open Access journals. You save money but might miss important work that might change the trajectory of your research.
+
+### **Impact**:
+
++3 𝔈, -2 ℜ
+:::
+
+::: {.callout-warning title="The Grey area" collapse="true" appearance="simple" icon="false"}
+Only pay for the most important articles, and rely on abstracts and secondary sources for the most of your study. And when push comes to shove, there's other ways to *acquire* literature.
+
+### **Impact**:
+
+-3 𝔈, +1 𝔐
+:::
+::::::
+:::::::
+
+</br>
+
+::::::: question-box
+## Question V:
+
+:::::: inside-box
+#### Pick your pace
+
+Your preliminary findings on your study are looking great! However, a rival lab has just announced a similar study at an upcoming conference in Berlin. You are exhausted and your budget is tight. How do you handle the last round?
+
+::: {.callout-important title="The Meticulous" collapse="true" appearance="simple" icon="false"}
+You insist on going strong and reliable with your results and performing a double check to ensure total transparency. It’s slow, and the delay costs you but you leave no room for mistakes.
+
+### **Impact**:
+
+-2 𝔐, +3 𝔈
+:::
+
+::: {.callout-tip title="The Rush Base" collapse="true" appearance="simple" icon="false"}
+You skip the secondary audit and "quickly take a look" at the final 20% of the data to get the manuscript submitted tonight. You beat the rival lab, securing the publishing first prestige, but your methods section is now a bit... vague.
+
+### **Impact**:
+
+-2 𝔈, +2 ℜ
+:::
+
+::: {.callout-warning title="The Help" collapse="true" appearance="simple" icon="false"}
+You use the last piece of your grant to hire a student assistant to finish the remaining tedious tasks on your research. You maintain quality and speed, but your emergency fund is now down to zero.
+
+### **Impact**:
+
+-4 𝔐, +3 ℜ
+:::
+::::::
+:::::::
+
+</br>
+
+::::::: question-box
+## Question VI:
+
+:::::: inside-box
+#### Does something seem... WEIRD?
+
+The participants of your study are (as is typical in the majority of Western linguistic and psychological research) 90% university students. How do you deal with the WEIRD-ness (that is: *Western, Educated, Industrialized, Rich, Democratic*, cf. @henrich2010) of your data?
+
+::: {.callout-important title="The Global" collapse="true" appearance="simple" icon="false"}
+You spend your budget on social media ads to recruit speakers from more diverse linguistic backgrounds.
+
+### **Impact**:
+
+-2 𝔐, +3 𝔈
+:::
+
+::: {.callout-tip title="The \"Limitations\" Footnote" collapse="true" appearance="simple" icon="false"}
+You keep the student sample but add a tiny disclaimer in the paper. It’s the industry standard, but it’s lazy.
+
+### **Impact**:
+
+-1 𝔈, +1 𝔐
+:::
+
+::: {.callout-warning title="The Pivot" collapse="true" appearance="simple" icon="false"}
+You narrow your research claim to university students only. It’s honest, but you make weaker claims that may attract less attention and citations.
+
+### **Impact**:
+
++2 𝔈, -2 ℜ
+:::
+::::::
+:::::::
+
+</br>
+
+::::::: question-box
+## Question VII:
+
+:::::: inside-box
+#### Grand Theft Work-device
+
+Disaster strikes at a cafe. Your laptop, only secured by a weak password, containing the majority of your sensitive recordings is stolen. What do you do?
+
+::: {.callout-important title="The Radical Honesty" collapse="true" appearance="simple" icon="false"}
+Admit the breach to your ethics committee. You’ll have to discard the lost data and your reputation will take a hit.
+
+### **Impact**:
+
++4 𝔈, -2 ℜ
+:::
+
+::: {.callout-tip title="The Sneaky Rescue" collapse="true" appearance="simple" icon="false"}
+You still have your notes. You use a generative algorithm to fill in missing data points. No one will know.
+
+### **Impact**:
+
+-5 𝔈, +3 ℜ
+:::
+
+::: {.callout-warning title="The Financial Resort" collapse="true" appearance="simple" icon="false"}
+You hire a private investigator and a data recovery specialist to track down the hardware containing your data.
+
+### **Impact**:
+
+-4 𝔐, +2 ℜ
+:::
+::::::
+:::::::
+
+</br>
+
+::::::: question-box
+## Question VIII:
+
+:::::: inside-box
+#### Peer-ing Review
+
+You are asked to Peer-review a draft for a journal but you notice that the article was written by your friend/colleague/supervisor, what do you do?
+
+::: {.callout-important title="The Choice" collapse="true" appearance="simple" icon="false"}
+Let the journal know that you feel uncomfortable reviewing the article, since you are reasonably sure who wrote it.
+
+### **Impact**:
+
++3 𝔈, -2 ℜ
+:::
+
+::: {.callout-tip title="The Silence" collapse="true" appearance="simple" icon="false"}
+Carry on with the review (not making any difference, despite the fact that you know the author).
+
+### **Impact**:
+
+-1 𝔐, +1 ℜ
+:::
+
+::: {.callout-warning title="The Deal" collapse="true" appearance="simple" icon="false"}
+Ask your friend what type of feedback or comments they would like. They might just write the review themselves.
+
+### **Impact**:
+
+-3 𝔈, -1 ℜ
+:::
+::::::
+:::::::
+
+</br>
+
+:::::: speech-bubble
+## Part III: Manuscripts and Visibility
+
+::::: progress-outside
+:::: progress-inside-80
+::: number-inside
+# 80%
+:::
+::::
+:::::
+::::::
+
+</br>
+
+![](Dr.%20Owl/science.png){fig-align="center" width="300"}
+
+</br>
+
+::::::: question-box
+## Question IX:
+
+:::::: inside-box
+#### Manuscript transparency
+
+Your analysis of your study is finally complete. You are ready to upload your manuscript, but you must decide how much of your secret sauce -- the raw data files, the proprietary metadata, and your specific coding scheme - you will attach to the public repository.
+
+::: {.callout-important title="The Transparency Advocate" collapse="true" appearance="simple" icon="false"}
+You upload everything to a public repository with a DOI. Every step of your method is visible and reproducible. It’s exhausting work that eats into your research time, but you are a paragon of Open Science.
+
+### **Impact**:
+
+-3 𝔐, +4 𝔈
+:::
+
+::: {.callout-tip title="The Strategic Gatekeeper" collapse="true" appearance="simple" icon="false"}
+You share a summary dataset and your final results, but you keep the raw data and the specifics private. It protects your competitive advantage for future papers and keeps your reputation high among peers who value proprietary data, though Open Science advocates find it lacking.
+
+### **Impact**:
+
++3 ℜ, -2 𝔈
+:::
+
+::: {.callout-warning title="The Black Box" collapse="true" appearance="simple" icon="false"}
+You provide no data sharing whatsoever, saying it is about participant privacy to avoid the extra work. You save all your remaining budget, but the Open Science community marks your work as unverifiable.
+
+### **Impact**:
+
+-4 𝔈, -2 ℜ, +3 𝔐
+:::
+::::::
+:::::::
+
+</br>
+
+::::::: question-box
+## Question X:
+
+:::::: inside-box
+#### Visibility Cross-roads
+
+Your paper (the one you spent months on) is complete. But now you face a strategic crossroads. You want the world to see your work, but how you present it changes everything.
+
+::: {.callout-important title="The Conference Jetsetter" collapse="true" appearance="simple" icon="false"}
+You book a flight and a hotel to present your findings at a major linguistics conference in Birmingham. You’ll network with the big names and your reputation will soar, but it is a notable expense.
+
+### **Impact**:
+
+-4 𝔐, +4 ℜ
+:::
+
+::: {.callout-tip title="The Pre-print Pioneer" collapse="true" appearance="simple" icon="false"}
+You upload your manuscript. It’s free and accessible to everyone right now. But there’s a risk: a rival might see your data and try to publish a more polished version in a journal before you do.
+
+### **Impact**:
+
++2 ℜ, +3 𝔈
+:::
+
+::: {.callout-warning title="The Stealth Scholar" collapse="true" appearance="simple" icon="false"}
+You keep the paper on your hard drive until it’s officially accepted by a journal months from now. You save on your budget, but in the publish-or-perish world, you risk becoming irrelevant or forgotten by the time the paper actually comes out.
+
+### **Impact**:
+
+-3 ℜ, +3 𝔐
+:::
+::::::
+:::::::
+
+# The End
+
+:::::: speech-bubble
+::::: progress-outside
+:::: progress-inside-100
+::: number-inside
+# 100%
+:::
+::::
+:::::
+
+</br>
+
+Yay, you made it to the end! But there is **one final choice** to make. Look at your final scores for **M**oney, **R**eputation, and **E**thics. If you haven't already, you can **calculate your score** by searching the page (using `CTRL + f`/`⌘ + f` after copying 𝔐, 𝔈, and ℜ to iterate through all answers and compute the final stat) based on your chosen answers (the ones you read and left open). Have a look at the **score table** and **choose the type of journal** to publish in based on your stats. If you have more than one possibility congratulations, you get to chose!
+::::::
+
+</br>
+
+![](Dr.%20Owl/accepted.png){fig-align="center" width="300"}
+
+<!--NOTE: interactive stuff with `shiny` could be cool, and apparently has improved recently - but it's too much work (cf.: https://quarto.thecoatlessprofessor.com/r-shinylive-demo/#using-r-shinylive-for-serverless-shiny-apps-in-quarto-documents)-->
+
+## Prerequisites stats for your journal choice
+
+::: question-box
+|                  |                 |                |                    |
+|------------------|-----------------|----------------|--------------------|
+| **Journal Type** | **Funding** (𝔐) | **Ethics** (𝔈) | **Reputation** (ℜ) |
+| 💠 Diamond       | -25 to -6       | 32 to 22       | 19 to 13           |
+| 🥇 Gold          | -5 to 2         | 21 to 6        | 12 to 6            |
+| 📔 Conventional  | 3 to 6          | 5 to -5        | 5 to 1             |
+| ⁉️ Predatory     | 7 to 9          | -6 to -26      | 0 to -11           |
+:::
+
+## Journal choices
+
+::::::: answer-box
+::: {.callout-important title="💠 Diamond Open Access" collapse="true" appearance="simple" icon="false"}
+Diamond OA provides immediate free access to articles without charging *article processing charges* (APCs) to authors. Journals are supported by institutions, scholarly societies, grants, consortia, or volunteer labor. Articles are often published under open licenses (e.g., [CC BY](https://creativecommons.org/share-your-work/cclicenses/)), enabling reuse and broad dissemination.
+
+-   **advantage**: equitable for both authors and readers, freely accessible to anyone
+
+-   **drawback**: sustainability depends on external funding or unpaid labor
+:::
+
+::: {.callout-important title="🥇 Gold Open Access" collapse="true" appearance="simple" icon="false"}
+Gold OA makes the final published article immediately free on the publisher’s site. Funding commonly comes from *article processing charges* (APCs) paid by authors, institutions, or funders. Articles are often published under open licenses (e.g., [CC BY](https://creativecommons.org/share-your-work/cclicenses/)), enabling reuse and broad dissemination.
+
+-   **advantage**: maximum visibility and compliance with OA mandates, freely accessible to anyone
+
+-   **drawback**: APCs can exclude authors without funding
+:::
+
+::: {.callout-important title="📔 Conventional publishing (\"closed\" access)" collapse="true" appearance="simple" icon="false"}
+Conventional "closed" journals restrict access to subscribers or pay-per-view users. Publishers generate revenue only from individual or institutional subscriptions because authors typically do not pay publication fees. Content is usually under publisher-controlled licenses, limiting reuse and redistribution.
+
+-   **advantage**: you get to (in many fields still) the best-known and widest reaching journals
+
+-   **drawback**: limited readership and barriers to access
+:::
+
+::: {.callout-important title="⁉️ Predatory journals" collapse="true" appearance="simple" icon="false"}
+Predatory journals publish the article immediately without any direct peer review. The author is charged lower publication fees, but the editors provide little or no quality control, archiving or indexing.
+
+-   **advantage**: fast processing and easy acceptance, (may be) freely accessible to anyone
+
+-   **drawback**: low quality assurance, risk to author reputation and career, higher costs and lack of transparency
+:::
+:::::::
+
+</br> </br>
+
+# Acknowledgements
+
+All pictures of Dr. Owl have been created using ChatGPT 5.2.
+
+# References
+
+::: {#refs}
+:::

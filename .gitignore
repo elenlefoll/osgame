@@ -1,0 +1,14 @@
+/.quarto/
+**/*.quarto_ipynb
+.Rproj.user
+/_site/
+/site_libs/
+/_freeze/
+*.DS_Store
+To-do.txt
+_quarto_internal_scss_error.scss
+.github/
+*.zip
+*.wav
+*._old.*
+**/*.quarto_ipynb

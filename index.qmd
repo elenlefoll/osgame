@@ -1,0 +1,20 @@
+---
+title: An Open Science Game
+toc: false
+---
+
+:::::: start-page
+:::: hero
+::: speech-bubble
+Welcome to the world of academic publishing! My name is Dr. Owl. Do you want to start some research with me?
+:::
+
+![All pictures of Dr. Owl have been created using ChatGPT 5.2](Dr.%20Owl/welcome.png){.dr-owl fig-align="center"}
+::::
+
+::: start-buttons
+<a href="quiz.qmd" class="btn btn-primary"> Start </a>
+
+<a href="about.qmd" class="btn btn-primary"> About the Game </a>
+:::
+::::::

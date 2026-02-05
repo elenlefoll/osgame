@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - about.qmd
+
+format:
+  html:
+    css: styles.css
+    toc:  false
+
+editor: visual
+

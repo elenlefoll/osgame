@@ -1,0 +1,15 @@
+---
+title: "About"
+---
+
+:::: speech-bubble
+::: answer.box
+This game was a collaboration of Philip, Ceren, Matteo and Nelly as a group project for the class "Open Science practices in applied linguistics and second language acquisition" by Elen Le Foll.
+
+The main objective of this game is to have players gain insides into both academic work and open access publishing. It leads the players through a series of decisions, highlighting the trade-offs between Money, Ethics and Reputation in academic publishing.
+
+The ultimate goal of this game is not winning. We invite the players to have discussions about open science, the way scientific publishing is shaped currently and reflect on their own academic values.
+:::
+::::
+
+![](Dr.%20Owl/open.png){width="300"} Yay, you found this cute picture of Dr. Owl!

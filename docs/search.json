@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "quiz.html",
+    "href": "quiz.html",
+    "title": "Open science publishing game",
+    "section": "",
+    "text": "Hello there,\nit seems you’re interested in learning more about academic publishing! This game leads you through the different phases of publishing an academic paper. During each phase you’re going to have to answer some questions. Every decision you make has an impact on your score, which consists of three attributes associated with you as a researcher:\n\nFunding (𝔐)\nEthics (𝔈)\nReputation (ℜ)\n\nBy the end of the game you’ll learn about the different forms of publishing. For this, it is very important that you keep track of your stats. You can either write it down during the game or leave the answer of your choice open and sum up in the end in the end."
+  },
+  {
+    "objectID": "quiz.html#part-i-funding-grants-and-preparation",
+    "href": "quiz.html#part-i-funding-grants-and-preparation",
+    "title": "Open science publishing game",
+    "section": "Part I: Funding, grants and preparation",
+    "text": "Part I: Funding, grants and preparation"
+  },
+  {
+    "objectID": "quiz.html#question-i",
+    "href": "quiz.html#question-i",
+    "title": "Open science publishing game",
+    "section": "Question I:",
+    "text": "Question I:\n\nChoose your companion – The Assistant\nYou’re staring at two CVs and one business card on your desk at the University of Cologne. Your choice will define your lab’s culture.\n\n\n\n\n\n\nImportantThe Industry Plant\n\n\n\n\n\nA brilliant coder funded by a data-mining giant. They have all the latest tools but require “first-look” rights to your findings.\n\nImpact:\n+5 𝔐, -2 𝔈\n\n\n\n\n\n\n\n\n\n\nTipThe Activist Scholar\n\n\n\n\n\nThey specialize in endangered dialects and insist on community-led data ownership. It’s slow work, but it’s the ethical way.\n\nImpact:\n-2 𝔐, +4 𝔈\n\n\n\n\n\n\n\n\n\n\nWarningThe Post-Doc\n\n\n\n\n\nThey have a track record of publishing in high-impact, paywalled journals. They want results fast and aren’t interested in open-access paperwork.\n\nImpact:\n-2 𝔐, +3 ℜ"
+  },
+  {
+    "objectID": "quiz.html#question-ii",
+    "href": "quiz.html#question-ii",
+    "title": "Open science publishing game",
+    "section": "Question II:",
+    "text": "Question II:\n\nChoose your weapon – The Grant\nYour ongoing research needs a budget. You have found a portal where you can apply for some grants. The portal shows three options:\n\n\n\n\n\n\nImportantThe Public Grant\n\n\n\n\n\nIt requires a 50-page Open Science Plan. It’s prestigious but the funding is barely enough to cover coffee.\n\nImpact:\n-2 𝔐, +2 𝔈, +1 ℜ\n\n\n\n\n\n\n\n\n\n\nTipThe Fellowship of Tech\n\n\n\n\n\nA private corporation offers a lot of money, but you must use their proprietary software for analysis.\n\nImpact:\n+5 𝔐, -3 𝔈\n\n\n\n\n\n\n\n\n\n\nWarningThe University Grant\n\n\n\n\n\nMid-level funding with no open science requirements. It’s easy, but it contributes nothing to the movement.\n\nImpact:\n-1 𝔐, +1 ℜ"
+  },
+  {
+    "objectID": "quiz.html#question-iii",
+    "href": "quiz.html#question-iii",
+    "title": "Open science publishing game",
+    "section": "Question III:",
+    "text": "Question III:\n\nChoose your path – Pre-registration\nYou’re half-way through your study. Your post-doc says that if you pre-register your study,  a rival lab in Munich might scoop your project.\n\n\n\n\n\n\nImportantThe Transparent\n\n\n\n\n\nPreregister publicly on OSF or AsPredicted and make your study public. You’re protected by a timestamp, but everyone will know what your study is about.\n\nImpact:\n+3 𝔈, +1 ℜ\n\n\n\n\n\n\n\n\n\n\nTipThe Hesitant One\n\n\n\n\n\nPreregister your study on OSF or AsPredicted but keep it private for two years. It’s a paper trail only you can see for now.\n\nImpact:\n+2 𝔈, -1 𝔐\n\n\n\n\n\n\n\n\n\n\nWarningThe Rogue\n\n\n\n\n\nDon’t preregister. You prefer the flexibility to adjust your hypotheses, which is great if the p-values don’t look good later.\n\nImpact:\n-3 𝔈, +2 ℜ"
+  },
+  {
+    "objectID": "quiz.html#part-ii-research-phase",
+    "href": "quiz.html#part-ii-research-phase",
+    "title": "Open science publishing game",
+    "section": "Part II: Research phase",
+    "text": "Part II: Research phase"
+  },
+  {
+    "objectID": "quiz.html#question-iv",
+    "href": "quiz.html#question-iv",
+    "title": "Open science publishing game",
+    "section": "Question IV:",
+    "text": "Question IV:\n\n\n\n\n\n\nNoteThe Paywall-Payoff\n\n\n\nWhile you start your in-depth research for your study, you realize most key papers are behind paywalls. You are not able to afford this with your budget.\n\n\n\n\n\n\nImportantThe Necessary Expense\n\n\n\n\n\nPay the fee from grant money. The paper is essential for your research.\n\nImpact:\n-2 𝔐, +1 ℜ\n\n\n\n\n\n\n\n\n\n\nTipThe Rebel\n\n\n\n\n\nOnly cite freely accesible research, such as preprints and papers published in Diamond Open Access journals. You save money but might miss important work that might change the trajectory of your research.\n\nImpact:\n+3 𝔈, -2 ℜ\n\n\n\n\n\n\n\n\n\n\nWarningThe Grey area\n\n\n\n\n\nOnly pay for the most important articles, and rely on abstracts and secondary sources for the most of your study. And when push comes to shove, there’s other ways to acquire literature.\n\nImpact:\n-3 𝔈, +1 𝔐"
+  },
+  {
+    "objectID": "quiz.html#question-v",
+    "href": "quiz.html#question-v",
+    "title": "Open science publishing game",
+    "section": "Question V:",
+    "text": "Question V:\n\nPick your pace\nYour preliminary findings on your study are looking great! However, a rival lab has just announced a similar study at an upcoming conference in Berlin. You are exhausted and your budget is tight. How do you handle the last round?\n\n\n\n\n\n\nImportantThe Meticulous\n\n\n\n\n\nYou insist on going strong and reliable with your results and performing a double check to ensure total transparency. It’s slow, and the delay costs you but you leave no room for mistakes.\n\nImpact:\n-2 𝔐, +3 𝔈\n\n\n\n\n\n\n\n\n\n\nTipThe Rush Base\n\n\n\n\n\nYou skip the secondary audit and “quickly take a look” at the final 20% of the data to get the manuscript submitted tonight. You beat the rival lab, securing the publishing first prestige, but your methods section is now a bit… vague.\n\nImpact:\n-2 𝔈, +2 ℜ\n\n\n\n\n\n\n\n\n\n\nWarningThe Help\n\n\n\n\n\nYou use the last piece of your grant to hire a student assistant to finish the remaining tedious tasks on your research. You maintain quality and speed, but your emergency fund is now down to zero.\n\nImpact:\n-4 𝔐, +3 ℜ"
+  },
+  {
+    "objectID": "quiz.html#question-vi",
+    "href": "quiz.html#question-vi",
+    "title": "Open science publishing game",
+    "section": "Question VI:",
+    "text": "Question VI:\n\nDoes something seem… WEIRD?\nThe participants of your study are (as is typical in the majority of Western linguistic and psychological research) 90% university students. How do you deal with the WEIRD-ness (that is: Western, Educated, Industrialized, Rich, Democratic, cf. Henrich et al. (2010)) of your data?\n\n\n\n\n\n\nImportantThe Global\n\n\n\n\n\nYou spend your budget on social media ads to recruit speakers from more diverse linguistic backgrounds.\n\nImpact:\n-2 𝔐, +3 𝔈\n\n\n\n\n\n\n\n\n\n\nTipThe “Limitations” Footnote\n\n\n\n\n\nYou keep the student sample but add a tiny disclaimer in the paper. It’s the industry standard, but it’s lazy.\n\nImpact:\n-1 𝔈, +1 𝔐\n\n\n\n\n\n\n\n\n\n\nWarningThe Pivot\n\n\n\n\n\nYou narrow your research claim to university students only. It’s honest, but you make weaker claims that may attract less attention and citations.\n\nImpact:\n+2 𝔈, -2 ℜ"
+  },
+  {
+    "objectID": "quiz.html#question-vii",
+    "href": "quiz.html#question-vii",
+    "title": "Open science publishing game",
+    "section": "Question VII:",
+    "text": "Question VII:\n\nGrand Theft Work-device\nDisaster strikes at a cafe. Your laptop, only secured by a weak password, containing the majority of your sensitive recordings is stolen. What do you do?\n\n\n\n\n\n\nImportantThe Radical Honesty\n\n\n\n\n\nAdmit the breach to your ethics committee. You’ll have to discard the lost data and your reputation will take a hit.\n\nImpact:\n+4 𝔈, -2 ℜ\n\n\n\n\n\n\n\n\n\n\nTipThe Sneaky Rescue\n\n\n\n\n\nYou still have your notes. You use a generative algorithm to fill in missing data points. No one will know.\n\nImpact:\n-5 𝔈, +3 ℜ\n\n\n\n\n\n\n\n\n\n\nWarningThe Financial Resort\n\n\n\n\n\nYou hire a private investigator and a data recovery specialist to track down the hardware containing your data.\n\nImpact:\n-4 𝔐, +2 ℜ"
+  },
+  {
+    "objectID": "quiz.html#question-viii",
+    "href": "quiz.html#question-viii",
+    "title": "Open science publishing game",
+    "section": "Question VIII:",
+    "text": "Question VIII:\n\nPeer-ing Review\nYou are asked to Peer-review a draft for a journal but you notice that the article was written by your friend/colleague/supervisor, what do you do?\n\n\n\n\n\n\nImportantThe Choice\n\n\n\n\n\nLet the journal know that you feel uncomfortable reviewing the article, since you are reasonably sure who wrote it.\n\nImpact:\n+3 𝔈, -2 ℜ\n\n\n\n\n\n\n\n\n\n\nTipThe Silence\n\n\n\n\n\nCarry on with the review (not making any difference, despite the fact that you know the author).\n\nImpact:\n-1 𝔐, +1 ℜ\n\n\n\n\n\n\n\n\n\n\nWarningThe Deal\n\n\n\n\n\nAsk your friend what type of feedback or comments they would like. They might just write the review themselves.\n\nImpact:\n-3 𝔈, -1 ℜ"
+  },
+  {
+    "objectID": "quiz.html#part-iii-manuscripts-and-visibility",
+    "href": "quiz.html#part-iii-manuscripts-and-visibility",
+    "title": "Open science publishing game",
+    "section": "Part III: Manuscripts and Visibility",
+    "text": "Part III: Manuscripts and Visibility"
+  },
+  {
+    "objectID": "quiz.html#question-ix",
+    "href": "quiz.html#question-ix",
+    "title": "Open science publishing game",
+    "section": "Question IX:",
+    "text": "Question IX:\n\nManuscript transparency\nYour analysis of your study is finally complete. You are ready to upload your manuscript, but you must decide how much of your secret sauce – the raw data files, the proprietary metadata, and your specific coding scheme - you will attach to the public repository.\n\n\n\n\n\n\nImportantThe Transparency Advocate\n\n\n\n\n\nYou upload everything to a public repository with a DOI. Every step of your method is visible and reproducible. It’s exhausting work that eats into your research time, but you are a paragon of Open Science.\n\nImpact:\n-3 𝔐, +4 𝔈\n\n\n\n\n\n\n\n\n\n\nTipThe Strategic Gatekeeper\n\n\n\n\n\nYou share a summary dataset and your final results, but you keep the raw data and the specifics private. It protects your competitive advantage for future papers and keeps your reputation high among peers who value proprietary data, though Open Science advocates find it lacking.\n\nImpact:\n+3 ℜ, -2 𝔈\n\n\n\n\n\n\n\n\n\n\nWarningThe Black Box\n\n\n\n\n\nYou provide no data sharing whatsoever, saying it is about participant privacy to avoid the extra work. You save all your remaining budget, but the Open Science community marks your work as unverifiable.\n\nImpact:\n-4 𝔈, -2 ℜ, +3 𝔐"
+  },
+  {
+    "objectID": "quiz.html#question-x",
+    "href": "quiz.html#question-x",
+    "title": "Open science publishing game",
+    "section": "Question X:",
+    "text": "Question X:\n\nVisibility Cross-roads\nYour paper (the one you spent months on) is complete. But now you face a strategic crossroads. You want the world to see your work, but how you present it changes everything.\n\n\n\n\n\n\nImportantThe Conference Jetsetter\n\n\n\n\n\nYou book a flight and a hotel to present your findings at a major linguistics conference in Birmingham. You’ll network with the big names and your reputation will soar, but it is a notable expense.\n\nImpact:\n-4 𝔐, +4 ℜ\n\n\n\n\n\n\n\n\n\n\nTipThe Pre-print Pioneer\n\n\n\n\n\nYou upload your manuscript. It’s free and accessible to everyone right now. But there’s a risk: a rival might see your data and try to publish a more polished version in a journal before you do.\n\nImpact:\n+2 ℜ, +3 𝔈\n\n\n\n\n\n\n\n\n\n\nWarningThe Stealth Scholar\n\n\n\n\n\nYou keep the paper on your hard drive until it’s officially accepted by a journal months from now. You save on your budget, but in the publish-or-perish world, you risk becoming irrelevant or forgotten by the time the paper actually comes out.\n\nImpact:\n-3 ℜ, +3 𝔐"
+  },
+  {
+    "objectID": "quiz.html#prerequisites-stats-for-your-journal-choice",
+    "href": "quiz.html#prerequisites-stats-for-your-journal-choice",
+    "title": "Open science publishing game",
+    "section": "Prerequisites stats for your journal choice",
+    "text": "Prerequisites stats for your journal choice\n\n\n\n\n\n\n\n\n\n\nJournal Type\nFunding (𝔐)\nEthics (𝔈)\nReputation (ℜ)\n\n\n💠 Diamond\n-25 to -6\n32 to 22\n19 to 13\n\n\n🥇 Gold\n-5 to 2\n21 to 6\n12 to 6\n\n\n📔 Conventional\n3 to 6\n5 to -5\n5 to 1\n\n\n⁉️ Predatory\n7 to 9\n-6 to -26\n0 to -11"
+  },
+  {
+    "objectID": "quiz.html#journal-choices",
+    "href": "quiz.html#journal-choices",
+    "title": "Open science publishing game",
+    "section": "Journal choices",
+    "text": "Journal choices\n\n\n\n\n\n\n\nImportant💠 Diamond Open Access\n\n\n\n\n\nDiamond OA provides immediate free access to articles without charging article processing charges (APCs) to authors. Journals are supported by institutions, scholarly societies, grants, consortia, or volunteer labor. Articles are often published under open licenses (e.g., CC BY), enabling reuse and broad dissemination.\n\nadvantage: equitable for both authors and readers, freely accessible to anyone\ndrawback: sustainability depends on external funding or unpaid labor\n\n\n\n\n\n\n\n\n\n\nImportant🥇 Gold Open Access\n\n\n\n\n\nGold OA makes the final published article immediately free on the publisher’s site. Funding commonly comes from article processing charges (APCs) paid by authors, institutions, or funders. Articles are often published under open licenses (e.g., CC BY), enabling reuse and broad dissemination.\n\nadvantage: maximum visibility and compliance with OA mandates, freely accessible to anyone\ndrawback: APCs can exclude authors without funding\n\n\n\n\n\n\n\n\n\n\nImportant📔 Conventional publishing (“closed” access)\n\n\n\n\n\nConventional “closed” journals restrict access to subscribers or pay-per-view users. Publishers generate revenue only from individual or institutional subscriptions because authors typically do not pay publication fees. Content is usually under publisher-controlled licenses, limiting reuse and redistribution.\n\nadvantage: you get to (in many fields still) the best-known and widest reaching journals\ndrawback: limited readership and barriers to access\n\n\n\n\n\n\n\n\n\n\nImportant⁉️ Predatory journals\n\n\n\n\n\nPredatory journals publish the article immediately without any direct peer review. The author is charged lower publication fees, but the editors provide little or no quality control, archiving or indexing.\n\nadvantage: fast processing and easy acceptance, (may be) freely accessible to anyone\ndrawback: low quality assurance, risk to author reputation and career, higher costs and lack of transparency"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "An Open Science Game",
+    "section": "",
+    "text": "Welcome to the world of academic publishing! My name is Dr. Owl. Do you want to start some research with me?\n\n\n\n\nAll pictures of Dr. Owl have been created using ChatGPT 5.2\n\n\n\n\n Start \n About the Game"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This game was a collaboration of Philip, Ceren, Matteo and Nelly as a group project for the class “Open Science practices in applied linguistics and second language acquisition” by Elen Le Foll.\nThe main objective of this game is to have players gain insides into both academic work and open access publishing. It leads the players through a series of decisions, highlighting the trade-offs between Money, Ethics and Reputation in academic publishing.\nThe ultimate goal of this game is not winning. We invite the players to have discussions about open science, the way scientific publishing is shaped currently and reflect on their own academic values.\n\n\n Yay, you found this cute picture of Dr. Owl!"
+  }
+]
